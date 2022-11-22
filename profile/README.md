@@ -31,16 +31,7 @@ ___
 [Replicating the Apple Card application](https://exyte.com/blog/replicating-apple-card-application-using-swiftui)   
 [AndroidView & Jetpack Compose Tutorial](https://exyte.com/blog/androidview-jetpack-compose-tutorial)   
 
-<table>
-        <tr>
-            <td>
-               <img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="300" />
-            </td>
-            <td>
-               <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="300" />
-            </td>
-        </tr>
-</table>
+<img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="400" /> <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="400" />
 
 ## Other Projects
 

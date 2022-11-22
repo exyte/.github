@@ -18,22 +18,22 @@ ___
 [SVGView](https://github.com/exyte/SVGView) - SVG parser   
 [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation   
 
-<img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="480" /> <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="480" />
+<img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="450" /> <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="450" />
 
-## iOS & Android  Tutorials
+## iOS & Android Tutorials
 
-📱[How to make a scroll view with a sticky header in SwiftUI](https://exyte.com/blog/swiftui-tutorial-scaling-header)   
-👾[AndroidView & Jetpack Compose Tutorial](https://exyte.com/blog/androidview-jetpack-compose-tutorial)   
-📱[How to Create App Clips](https://exyte.com/blog/how-to-create-app-clips)   
-📱[How to make a simple interactive popup in SwiftUI](https://exyte.com/blog/swiftui-tutorial-popupview-library)   
-📱[Implementing Grid Layout in SwiftUI](https://exyte.com/blog/implementing-grid-layout-in-swiftui)   
-📱[How to make slider control in SwiftUI](https://exyte.com/blog/swiftui-tutorial-slider-control)   
-📱[Replicating the Activity application](https://exyte.com/blog/swiftui-tutorial-replicating-activity-application)   
-📱[Replicating the Apple Card application](https://exyte.com/blog/replicating-apple-card-application-using-swiftui)   
+[How to make a scroll view with a sticky header in SwiftUI](https://exyte.com/blog/swiftui-tutorial-scaling-header)   
+[How to Create App Clips](https://exyte.com/blog/how-to-create-app-clips)   
+[How to make a simple interactive popup in SwiftUI](https://exyte.com/blog/swiftui-tutorial-popupview-library)   
+[Implementing Grid Layout in SwiftUI](https://exyte.com/blog/implementing-grid-layout-in-swiftui)   
+[How to make slider control in SwiftUI](https://exyte.com/blog/swiftui-tutorial-slider-control)   
+[Replicating the Activity application](https://exyte.com/blog/swiftui-tutorial-replicating-activity-application)   
+[Replicating the Apple Card application](https://exyte.com/blog/replicating-apple-card-application-using-swiftui)   
+[AndroidView & Jetpack Compose Tutorial](https://exyte.com/blog/androidview-jetpack-compose-tutorial)   
 
-<img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="480" /> <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="480" />
+<img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="450" /> <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="450" />
 
-## iOS & Android Projects
+## Other Projects
 
 📱[Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics library   
 👾[ShapedBackgroundAndroid](https://github.com/exyte/ShapedBackgroundAndroid) - Instagram-like shaped background   

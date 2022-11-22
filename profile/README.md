@@ -18,7 +18,7 @@ ___
 [SVGView](https://github.com/exyte/SVGView) - SVG parser   
 [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation   
 
-<img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="300" /> <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="300" />
+<img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="400" /> <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="400" />
 
 ## iOS & Android Tutorials
 

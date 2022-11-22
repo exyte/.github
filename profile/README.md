@@ -21,10 +21,10 @@ ___
 <table>
         <tr>
             <td>
-               <img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="450" />
+               <img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="300" />
             </td>
             <td>
-               <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="450" />
+               <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="300" />
             </td>
         </tr>
 </table>
@@ -43,10 +43,10 @@ ___
 <table>
         <tr>
             <td>
-               <img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="450" />
+               <img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="300" />
             </td>
             <td>
-               <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="450" />
+               <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="300" />
             </td>
         </tr>
 </table>

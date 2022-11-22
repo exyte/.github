@@ -18,7 +18,16 @@ ___
 [SVGView](https://github.com/exyte/SVGView) - SVG parser   
 [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation   
 
-<img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="450" /> <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="450" />
+<table>
+        <tr>
+            <td>
+               <img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="450" />
+            </td>
+            <td>
+               <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="450" />
+            </td>
+        </tr>
+</table>
 
 ## iOS & Android Tutorials
 
@@ -31,7 +40,16 @@ ___
 [Replicating the Apple Card application](https://exyte.com/blog/replicating-apple-card-application-using-swiftui)   
 [AndroidView & Jetpack Compose Tutorial](https://exyte.com/blog/androidview-jetpack-compose-tutorial)   
 
-<img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="450" /> <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="450" />
+<table>
+        <tr>
+            <td>
+               <img src="https://raw.githubusercontent.com/exyte/ARTetris/master/demo.gif" width="450" />
+            </td>
+            <td>
+               <img src="https://raw.githubusercontent.com/exyte/Macaw/master/demo.gif" width="450" />
+            </td>
+        </tr>
+</table>
 
 ## Other Projects
 

@@ -9,6 +9,7 @@ ___
 ## SwiftUI Projects
 
 * [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library    
+* 🆕 [MediaPicker](https://github.com/exyte/MediaPicker) - Customizable media picker    
 * [Grid](https://github.com/exyte/Grid) - The most powerful Grid container   
 * [ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll   
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - Animated onboarding flow   

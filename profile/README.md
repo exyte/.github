@@ -38,9 +38,9 @@ ___
 
 ## Other Projects
 
-* 📱[Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics library   
-* 👾[ShapedBackgroundAndroid](https://github.com/exyte/ShapedBackgroundAndroid) - Instagram-like shaped background   
-* 📱[ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts   
-* 👓[ARTetris](https://github.com/exyte/ARTetris) - Powerful and easy-to-use vector graphics library   
+* 📱[Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics library
+* 👾[ShapedBackgroundAndroid](https://github.com/exyte/ShapedBackgroundAndroid) - Instagram-like shaped background
+* 📱[ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts
+* 👓[ARTetris](https://github.com/exyte/ARTetris) - Augmented Reality Tetris made with ARKit and SceneKit
 
 

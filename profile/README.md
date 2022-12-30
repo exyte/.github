@@ -41,6 +41,6 @@ ___
 * 📱[Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics library   
 * 👾[ShapedBackgroundAndroid](https://github.com/exyte/ShapedBackgroundAndroid) - Instagram-like shaped background   
 * 📱[ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts   
-* 👓[ARTetris](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics library   
+* 👓[ARTetris](https://github.com/exyte/ARTetris) - Powerful and easy-to-use vector graphics library   
 
 

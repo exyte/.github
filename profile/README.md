@@ -14,7 +14,7 @@ ___
 * [ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll   
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - Animated onboarding flow   
 * [FloatingButton](https://github.com/exyte/FloatingButton) - Floating button menu    
-* 🆕 [AnimatedTabBar] https://github.com/exyte/AnimatedTabBar
+* 🆕 [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar)
 * [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of animated loading indicators    
 * [ProgressIndicatorView](https://github.com/exyte/ProgressIndicatorView) - A number of animated progress indicators    
 * [SVGView](https://github.com/exyte/SVGView) - SVG parser   

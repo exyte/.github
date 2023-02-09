@@ -21,7 +21,7 @@ ___
 * [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation   
 <br>
 
-<img src="https://raw.githubusercontent.com/exyte/ConcentricOnboarding/master/demo.gif" width="400" /> <img src="https://raw.githubusercontent.com/exyte/media/master/LiquidSwipe/demo.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/9447630/217482148-8594b3ce-e6be-4e84-a65d-29915566a61a.gif" />
 
 ## iOS & Android Tutorials
 

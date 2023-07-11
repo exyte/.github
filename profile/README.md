@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/exyte/media/master/common/header.png">
+<img src="https://github.com/exyte/.github/assets/1358172/a3d9aee1-eef9-47e6-bb55-f8f17823b270">
 <p><h1 align="left">Mobile Production</h1></p>
 Developers with 5+ years of experience in iOS, Android, and the art of clear communication
 

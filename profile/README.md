@@ -6,8 +6,6 @@
 <p><h1 align="left">Mobile Production</h1></p>
 Developers with 5+ years of experience in iOS, Android, and the art of clear communication
 
-___
-
 ## SwiftUI Projects
 
 * [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library    
